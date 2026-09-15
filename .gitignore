@@ -1,0 +1,7 @@
+inode_modules/
+.env
+*.env
+*.rpm
+*.tgz
+
+.DS_Store
