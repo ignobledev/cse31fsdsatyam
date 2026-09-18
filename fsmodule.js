@@ -1,17 +1,8 @@
 jaconst http = require('http');
 const fs = require("fs");
-//fs.writeFile("student.txt","hello this is file for  students",(err)=>{
-// if(err){
- //   console.log(err);
- // }
-//  else{
-//    console.log("file uploaded successfully");
- // }
- // });
-//  const server = http.createServer((req,res)=>
-//{
+
     
-  });
+  
 
 fs.readFile("student.txt","utf-8",(err,data)=>{
 if(err){
